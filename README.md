@@ -1,2 +1,3 @@
-# consultech
-Mi página web ConsulTech
+# Consultech
+Mi página web **ConsulTech**.
+Esta es mi página web de consultas.
