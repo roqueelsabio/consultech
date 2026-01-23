@@ -1,4 +1,4 @@
-# Consultech
+# ConsulTech
 Mi página web **ConsulTech**.\
 Esta es mi página web de consultas.\
 Enlace directo a **ConsulTech**: https://roqueelsabio.github.io/consultech/index.html
