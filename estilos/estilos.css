@@ -246,8 +246,8 @@ h3 {
 }
 
 .tabla {
-    width: 100%;
-    overflow-x: auto;
+    display: flex;
+    flex-direction: column;
     display: block;
     border: 2px solid black;
     margin: 1rem;
@@ -414,3 +414,4 @@ background-color: rgb(215, 213, 213);
     font-size: 0.8rem;
     }
 }
+
