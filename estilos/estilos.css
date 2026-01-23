@@ -406,4 +406,11 @@ background-color: rgb(215, 213, 213);
         height: 35rem;
     }
 
+    .tabla th {
+    font-size: 1rem;
+    }
+
+    .tabla td {
+    font-size: 0.8rem;
+    }
 }
