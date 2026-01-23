@@ -246,8 +246,9 @@ h3 {
 }
 
 .tabla {
-    display: flex;
-    flex-direction: column;
+    width: 100%;
+    overflow-x: auto;
+    display: block;
     border: 2px solid black;
     margin: 1rem;
     padding: 0.5rem;
@@ -378,6 +379,10 @@ background-color: rgb(215, 213, 213);
         margin-bottom: 0.2rem;
     }
 
+    #portada {
+        background-attachment: scroll;
+    }
+    
     #portada button {
         margin-bottom: 2rem;
     }
@@ -400,4 +405,5 @@ background-color: rgb(215, 213, 213);
     #portada {
         height: 35rem;
     }
+
 }
