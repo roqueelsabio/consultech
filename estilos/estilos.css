@@ -399,8 +399,7 @@ background-color: rgb(215, 213, 213);
 
     #portada {
         justify-content: flex-start;
-        min-height: 35rem;
-        height: auto;
+        min-height: auto;
     }
 
     .tabla th {
@@ -411,6 +410,7 @@ background-color: rgb(215, 213, 213);
     font-size: 0.7rem;
     }
 }
+
 
 
 
