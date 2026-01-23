@@ -1,6 +1,7 @@
 # ConsulTech
 Mi página web **ConsulTech**.\
 Esta es mi página web de consultas.\
+Página de prueba hecha con HTML y CSS.\
 Enlace directo a **ConsulTech**: https://roqueelsabio.github.io/consultech/index.html
 
 ## Créditos Imágenes con Freepik
