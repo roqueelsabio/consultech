@@ -45,7 +45,10 @@ header {
 
 #portada {
     width: 100%;
-    height: 25rem;
+    min-height: 25rem;
+    height: auto;
+    padding: 2rem 1rem;
+    box-sizing: border-box;
     background-image:
         linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
         url("../images/index_portada.jpg");
@@ -403,7 +406,9 @@ background-color: rgb(215, 213, 213);
     }
 
     #portada {
-        height: 35rem;
+        justify-content: flex-start;
+        min-height: 35rem;
+        height: auto;
     }
 
     .tabla th {
@@ -414,6 +419,7 @@ background-color: rgb(215, 213, 213);
     font-size: 0.7rem;
     }
 }
+
 
 
 
