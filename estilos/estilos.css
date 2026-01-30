@@ -249,7 +249,7 @@ h3 {
 }
 
 .tabla {
-    display: flex;
+    display: grid;
     flex-direction: column;
     display: block;
     border: 2px solid black;
@@ -403,11 +403,11 @@ background-color: rgb(215, 213, 213);
     }
 
     .tabla th {
-    font-size: 0.8rem;
+    font-size: 1.2rem;
     }
 
     .tabla td {
-    font-size: 0.7rem;
+    font-size: 1rem;
     }
 }
 
