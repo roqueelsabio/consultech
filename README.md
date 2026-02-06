@@ -7,3 +7,10 @@ Enlace directo a **ConsulTech**: https://roqueelsabio.github.io/consultech/index
 ## Créditos Imágenes con Freepik
 - **Portada del índice**: (Autor/a: freepik, Nombre del recurso: "Concepto de collage html y css con persona", Enlace al recurso: https://www.freepik.es/foto-gratis/concepto-collage-html-css-persona_36295468.htm#fromView=search&page=1&position=4&uuid=f7304bda-cc76-436d-82e2-658615fa8315&query=informatica)
 - **Logo de la página**: (Autor/a: diana.grytsku, Nombre del recurso: "Portátil con pantalla en blanco. Aislado en la pared blanca", Enlace al recurso: https://www.freepik.es/foto-gratis/portatil-pantalla-blanco-aislado-pared-blanca_11615559.htm#fromView=search&page=1&position=0&uuid=5f1ccff1-2f09-411c-8290-fb0e965c2a38&query=fotos+ordenadores+sin+fondo)
+
+## Este readme también sirve como apuntes de datos de markup language, por ejemplo la conclusión que tengo de mi proyecto
+
+| Archivo | Qué me ha gustado | Qué mejoraría |
+|--------|------------------|---------------|
+| HTML | Me ha gustado que no ha sido tan pesado, aunque he tenido que cambiar algún div/clase/id | No cambiaría nada, solo el CSS para dejarlo más fino |
+| CSS | Me ha gustado cuando le ponía colores y dejaba la página guapa | Igual le pondría más sombreado y cambiaría algún color |
